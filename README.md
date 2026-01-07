@@ -22,3 +22,10 @@ and publishes platform-specific posts to LinkedIn and Telegram.
 ## Make.com Scenario
 Screenshots of the automation workflow are available in:
 make-scenario/scenario-screenshots
+
+
+## Future Improvements
+- Add approval step before posting
+- Integrate post-performance analytics
+- Extend automation to Twitter/X and Instagram
+- Add error handling and alert notifications
