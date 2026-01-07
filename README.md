@@ -18,3 +18,7 @@ and publishes platform-specific posts to LinkedIn and Telegram.
 3. Router splits flow by platform
 4. Platform-specific prompts generate posts
 5. Content is published automatically
+
+## Make.com Scenario
+Screenshots of the automation workflow are available in:
+make-scenario/scenario-screenshots
