@@ -1,0 +1,6 @@
+Convert this project/skill summary into a Telegram bot message.
+
+Format:
+- Punchy headline
+- Key learning
+- Real-world relevance
