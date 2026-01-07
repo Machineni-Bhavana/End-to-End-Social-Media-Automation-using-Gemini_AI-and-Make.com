@@ -1,4 +1,4 @@
-##End-to-End Social Media Automation using Gemini AI & Make.com
+## End-to-End Social Media Automation using Gemini AI & Make.com
  
 
 ## Overview
