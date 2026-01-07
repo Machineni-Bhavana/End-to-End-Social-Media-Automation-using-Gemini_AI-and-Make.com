@@ -1,4 +1,5 @@
-# End-to-End-Social-Media-Automation-using-Gemini-AI-Make
+#End-to-End Social Media Automation using Gemini AI & Make.com
+ 
 
 ## Overview
 This project automates social media content creation and posting using Make.com.
